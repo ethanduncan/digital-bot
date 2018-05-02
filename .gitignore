@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# Config
+config.js
+
+# Key's and Secret's
+private_key.json
